@@ -1,0 +1,8 @@
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\LogAnalyzer9000\RenamerBot9000\bin\Debug\RenamerBot9000.exe
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\LogAnalyzer9000\RenamerBot9000\bin\Debug\RenamerBot9000.pdb
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\LogAnalyzer9000\RenamerBot9000\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\LogAnalyzer9000\RenamerBot9000\obj\Debug\RenamerBot9000.Home.resources
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\LogAnalyzer9000\RenamerBot9000\obj\Debug\RenamerBot9000.Properties.Resources.resources
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\LogAnalyzer9000\RenamerBot9000\obj\Debug\LogAnalyzer9000.csproj.GenerateResource.Cache
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\LogAnalyzer9000\RenamerBot9000\obj\Debug\RenamerBot9000.exe
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\LogAnalyzer9000\RenamerBot9000\obj\Debug\RenamerBot9000.pdb

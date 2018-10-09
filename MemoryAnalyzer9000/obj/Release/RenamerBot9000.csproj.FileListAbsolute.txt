@@ -1,0 +1,8 @@
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\RenamerBot9000\RenamerBot9000\bin\Release\RenamerBot9000.exe
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\RenamerBot9000\RenamerBot9000\bin\Release\RenamerBot9000.pdb
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\RenamerBot9000\RenamerBot9000\obj\Release\ResolveAssemblyReference.cache
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\RenamerBot9000\RenamerBot9000\obj\Release\RenamerBot9000.Home.resources
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\RenamerBot9000\RenamerBot9000\obj\Release\RenamerBot9000.Properties.Resources.resources
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\RenamerBot9000\RenamerBot9000\obj\Release\RenamerBot9000.csproj.GenerateResource.Cache
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\RenamerBot9000\RenamerBot9000\obj\Release\RenamerBot9000.exe
+C:\Users\avengroff\Documents\Visual Studio 2008\Projects\RenamerBot9000\RenamerBot9000\obj\Release\RenamerBot9000.pdb
